@@ -1636,7 +1636,7 @@ textarea.input {
     overflow: auto;
     padding: 4.375rem .9375rem .9375rem .9375rem;
     transition: left .5s ease 0s;
-    background-color: #a3a3a3
+    background-color: #e5eeff
   }
   .menu__body::before {
     content: "";
