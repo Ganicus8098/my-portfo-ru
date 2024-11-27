@@ -1835,15 +1835,6 @@ textarea.input {
   .skills__content {
     row-gap: clamp(1.25rem ,.8418367347rem + 2.0408163265vw ,2.5rem)
   }
-  .skills__image-item {
-    margin-left: clamp(-3.125rem ,-5.7780612245rem + 13.2653061224vw ,5rem)
-  }
-  .skills__image-item::before {
-    right: clamp(-2.5rem ,1.6454081633rem + -5.1020408163vw ,.625rem)
-  }
-  .skills__image-item::before {
-    top: clamp(-2.5rem ,-.012755102rem + -3.0612244898vw ,-.625rem)
-  }
   .counters__item,
   .counters__subtitle {
     font-size: clamp(1.25rem ,1.1683673469rem + .4081632653vw ,1.5rem)
